@@ -51,19 +51,19 @@ Order manager is the file which consist of the main function. To use the applica
  ### delivery-partner
 The delivery partner module is to provide details on the person who will be delivering the food.
 
-### grocery
+### Grocery
 The grocery module consist of the functions used in the grocery domain. Such as to add, view and select grocery items.
 
-### pet
+### Pet
 The pet module consist of the functions used in the pet food domain. Such as to add, view and select Pet food items.
 
- ### restaurant
+ ### Restaurant
  The restaurant module consists of all restaurant related actions, such as generating restaurant IDs, comparison of distance, rating and price, availabilty check, sort and filter functions.
 
- ### track
+ ### Track
  This module tracks the delivery partner and displays the estimated time for delivery based on dijkstra's algorithm.
 
- ### utility
+ ### Utility
  The utility module consists of miscellaneous functions such as to print in red, blue, random alphanumeric generator, trim, captcha and lowercase conversion.
 
 
